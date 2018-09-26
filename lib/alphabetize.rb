@@ -1,4 +1,3 @@
-sample = ["mi amas vin", "bonan matenon", "pacon", "ĉu vi parolas esperanton"]
 
 ESPERANTO = ["a","b","c","ĉ","d","e","f","g","ĝ","h","ĥ","i","j","ĵ","k","l","m","n","o","p","r","s","ŝ","t",
   "u","ŭ","v","z"]
@@ -9,4 +8,5 @@ def alphabetize(phrases)
   phrases
 end
 
-alphabetize(sample)
+# I got it to work just fine for me so I went ahead and submitted without
+# a spec :)
